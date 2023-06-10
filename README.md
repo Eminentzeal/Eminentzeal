@@ -16,5 +16,6 @@ I'm a Software Engineer, who currently works as a VP product at [Turabox](https:
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=eminentzeal&show_icons=true&layout=donut-vertical&include_all_commits=true&hide_border=true&theme=radical&hide_rank=true" alt="Ezekiel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminentzeal&langs_count=8&layout=donut-vertical&hide_border=true&theme=radical" alt="Ezekiel's GitHub stats" /> |
+<!-- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=eminentzeal&show_icons=true&layout=donut-vertical&include_all_commits=true&hide_border=true&theme=radical&hide_rank=true" alt="Ezekiel's GitHub stats" /> | -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminentzeal&langs_count=8&layout=donut-vertical&hide_border=true&theme=radical" alt="Ezekiel's GitHub stats" /> |
 | ------------- | ------------- |
