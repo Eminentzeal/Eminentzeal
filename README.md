@@ -8,7 +8,7 @@ I'm a Software Engineer, who currently works as a VP product at [Turabox](https:
 
 - 😊 Pronouns: He/him
 - 🌱 I’m proficeient in HTML CSS(SCSS, Bootstrap) Javascript, Angular framework,.
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
+  <!-- - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023. -->
 - 🌱 I’m currently learning Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, entry-level and mid-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern, Junior or Mid level).
