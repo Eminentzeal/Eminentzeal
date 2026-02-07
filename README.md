@@ -2,7 +2,7 @@
 
 [![Website Badge](https://img.shields.io/badge/-ezekielogunniwa-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://ezekielogunniwa.netlify.app)](https://ezekielogunniwa.netlify.app) [![Linkedin Badge](https://img.shields.io/badge/-ogunniwaezekiel-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ogunniwaezekiel)](https://www.linkedin.com/in/ogunniwaezekiel) [![Twitter Badge](https://img.shields.io/badge/-@OgunniwaE-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/OgunniwaE)](https://twitter.com/OgunniwaE)
 
-I'm a Software Engineer, who currently works as a Web Dev at [Vento Furniture](https://ventofurniture.com). Frontend Engineer. Expertise in translation of the UI/UX design to actual code. use of HTML, CSS, JavaScript, Angular Framework, interact with REST APIs and Wordpress CMS.
+I'm a Frontend Engineer. Expertise in translation of the UI/UX design to actual code. use of HTML, CSS, JavaScript, Angular Framework, interact with REST APIs and Wordpress CMS.
 
 **Here's a quick summary about me**:
 
